@@ -16,6 +16,10 @@ grid-auto-flow: column;
   gap: 16px;
 }
 
+.gap-32{
+  gap: 32px;
+}
+
 .text-2-l{
   font: var(--h1);
 }
